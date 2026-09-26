@@ -1,0 +1,21 @@
+.header-container{
+  background: red ;
+}
+
+.header-container a {
+  color:white !important;
+}
+
+.header-container .active{
+  color: white;
+  font-weight: bold;
+}
+
+.navbar-container{
+  position: relative;
+}
+
+.navbar-container > div {
+  position: absolute;
+  right: 5px;
+}
