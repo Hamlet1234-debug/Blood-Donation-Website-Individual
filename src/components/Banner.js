@@ -6,10 +6,10 @@
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-        <img src="https://static.vecteezy.com/system/resources/thumbnails/008/191/708/small/human-blood-donate-and-heart-rate-on-white-background-free-vector.jpg" class="d-block w-100" alt="..." />
+        <img style={{height:'70vh'}} src="https://static.vecteezy.com/system/resources/thumbnails/008/191/708/small/human-blood-donate-and-heart-rate-on-white-background-free-vector.jpg" class="d-block w-100" alt="..." />
         </div>
         <div class="carousel-item">
-        <img src="https://www.ameridisability.com/wp-content/uploads/2023/01/blood.jpg" class="d-block w-100" alt="..." />
+        <img style={{height:'70vh'}} src="https://www.ameridisability.com/wp-content/uploads/2023/01/blood.jpg" class="d-block w-100" alt="..." />
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
